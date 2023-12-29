@@ -1,7 +1,5 @@
 
-# Netflix css clone
-
-Sidcup css clone
+# Sidcup css clone
 
 # Deployment
 
